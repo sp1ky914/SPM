@@ -1,8 +1,8 @@
 {
     "name": "SPM",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "cool 4 maps yay",
+    "description": "New map mod that adds 4 maps designed to be torn apart",
     "dependencies": [
         "olavim-MapsExtended-1.2.6"
     ]
