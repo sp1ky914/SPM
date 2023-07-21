@@ -1,1 +1,9 @@
-
+{
+    "name": "SPM",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "cool 4 maps yay",
+    "dependencies": [
+        "olavim-MapsExtended-1.2.6"
+    ]
+}
