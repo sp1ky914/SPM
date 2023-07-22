@@ -2,7 +2,7 @@
     "name": "SPM",
     "version_number": "1.0.3",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "New update, now the overall quality of maps has been improved, and 2 new maps have been added. I added 8 player support but it will get very cramped as these are made for 2-4 player.",
+    "description": "Frequently updated map pack full of quality, vanilla style maps",
     "dependencies": [
         "olavim-MapsExtended-1.2.6"
     ]
