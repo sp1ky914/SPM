@@ -1,8 +1,8 @@
 {
     "name": "SPM",
-    "version_number": "1.0.6",
+    "version_number": "1.0.7",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "Frequently updated map pack full of quality, vanilla style maps",
+    "description": "Frequently updated map pack full of quality, vanilla style maps. (physics maps are being improved rn)",
     "dependencies": [
         "olavim-MapsExtended-1.2.6"
     ]
