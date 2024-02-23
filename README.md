@@ -1,2 +1,2 @@
-# Spiky's map mod
-A new map mod supporting up to 8 players. Will frequently be updated until I dont feel like it. Contains 6 maps balanced for 2-4 player.
+# Spiky's map mod 2
+New map mod, will be updated until I don't feel like it (probably when I have 10 maps.) Currently has 4 maps.
