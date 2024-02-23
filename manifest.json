@@ -1,9 +1,9 @@
-{
-    "name": "SPM",
-    "version_number": "2.0.1",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "Final update for a while, contains 16 new vanilla-like maps. Designed for up to 4 players. Keep your eyes peeled for SP2, another map pack I am working on that will be mainly focusing on moving elements.",
-    "dependencies": [
-        "olavim-MapsExtended-1.2.6"
-    ]
+{ 
+    "name": "SP2", 
+    "version_number": "1.0.0", 
+    "website_url": "https://github.com/thunderstore-io", 
+    "description": "New map pack I made to focus on moving elements. Contains 4 maps that are ideal for 2 player, and 4 player functional.", 
+    "dependencies": [ 
+        "olavim-MapsExtended-1.2.6" 
+    ] 
 }
