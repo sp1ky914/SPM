@@ -1,2 +1,2 @@
-# Spiky's map mod 2
-New map mod, will be updated until I don't feel like it (probably when I have 10 maps.) Currently has 4 maps.
+# Spiky's map mod
+new update: basically tweaked like 6 of the maps I personally hated that you probably also did to be more open and play better.
