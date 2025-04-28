@@ -1,9 +1,11 @@
-{ 
-    "name": "SP2", 
-    "version_number": "1.0.0", 
-    "website_url": "https://github.com/thunderstore-io", 
-    "description": "New map pack I made to focus on moving elements. Contains 4 maps that are ideal for 2 player, and 4 player functional.", 
-    "dependencies": [ 
-        "olavim-MapsExtended-1.2.6" 
-    ] 
+{
+	"title"		:	"gm_Frozentower",
+	"type"		:	"map",
+	"tags"		:	[ "build", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
 }
